@@ -5,7 +5,9 @@
     background: #d70ca1;
     color: rgb(178,34,34);
     font-size: 30px;
-    
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
   }
   /* footer */
 .footer {
@@ -14,4 +16,7 @@
     background: #1abc9c;
     color: rgb(255,215,0);
     font-size: 30px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
   }

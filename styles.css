@@ -1,0 +1,17 @@
+/* header */
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #d70ca1;
+    color: rgb(178,34,34);
+    font-size: 30px;
+    
+  }
+  /* footer */
+.footer {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: rgb(255,215,0);
+    font-size: 30px;
+  }
